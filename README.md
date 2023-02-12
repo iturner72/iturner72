@@ -1,7 +1,7 @@
 Hi 👋 My name is Ian Turner
 ===========================
 
-Front End Developer and Designer
+Full Stack Developer and Designer
 --------------------------------
 
 I've been a \*nix user for 8 plus years, tinkering with different Linux distributions. I am formally "trained" as a Mechanical Engineer but have always loved working with a terminal. I have fallen down various rabbit holes in the past few years including but not limited to: neovim, Bitcoin / Web3, Three.js, and SwiftUI.
