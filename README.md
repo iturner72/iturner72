@@ -34,7 +34,3 @@ I've been a \*nix user for 8 plus years, tinkering with different Linux distribu
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/iturner72" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/iturner722" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/iturner_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/iturner72/iturner3js" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iturner72&repo=iturner3js&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
